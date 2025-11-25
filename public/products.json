@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Sofa Set",
+    "slug": "modern-sofa-set",
+    "price": "799",
+    "category": "Sofa",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/Agapanthus-347.webp",
+    "description": "Comfortable 3-seater sofa with fabric upholstery, perfect for living rooms. Features high-density foam cushions and a durable wooden frame. Available in multiple colors. Ideal for modern minimalist aesthetics.",
+    "meta": {
+      "date_added": "2025-11-01",
+      "priority": 5
+    }
+  },
+  {
+    "id": "2",
+    "title": "Wooden Dining Table",
+    "slug": "wooden-dining-table",
+    "price": "599",
+    "category": "Table",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/_2LD1901-1%20Final.jpg",
+    "description": "Solid oak dining table for 6 people, featuring an elegant, classic design and superior durability. The wood is treated for stain resistance and easy maintenance. Perfect for family dinners and gatherings.",
+    "meta": {
+      "date_added": "2025-11-15",
+      "priority": 3
+    }
+  },
+  {
+    "id": "3",
+    "title": "Recliner Armchair",
+    "slug": "recliner-armchair",
+    "price": "349",
+    "category": "Chair",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/master_image/Diddle-105.png",
+    "description": "Ergonomic leather recliner armchair with an easily adjustable backrest and footrest. Provides excellent lumbar support and luxurious comfort for reading or watching movies. Available in black and brown leather options.",
+    "meta": {
+      "date_added": "2025-10-20",
+      "priority": 4
+    }
+  },
+  {
+    "id": "4",
+    "title": "Queen Bed Frame",
+    "slug": "queen-bed-frame",
+    "price": "499",
+    "category": "Bed",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/Hatil%20Bed%20Nemesis-197.jpg",
+    "description": "Stylish queen-sized bed frame made of high-quality solid wood. Includes an integrated headboard with decorative paneling. Provides robust support and is designed for quick assembly.",
+    "meta": {
+      "date_added": "2025-11-25",
+      "priority": 1
+    }
+  },
+  {
+    "id": "5",
+    "title": "Bookshelf",
+    "slug": "bookshelf",
+    "price": "199",
+    "category": "Cabinet",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/DSC02285.webp",
+    "description": "Tall wooden bookshelf featuring 5 wide, adjustable shelves. Ideal for organizing books, displaying decorative items, or storage in a home office or living room. Finished with a protective lacquer.",
+    "meta": {
+      "date_added": "2025-09-10",
+      "priority": 2
+    }
+  },
+  {
+    "id": "6",
+    "title": "Coffee Table",
+    "slug": "coffee-table",
+    "price": "149",
+    "category": "Table",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/Condor-151.png",
+    "description": "Modern coffee table with a durable tempered glass top and elegantly designed wooden legs. Its minimalistic footprint makes it ideal for smaller spaces while providing functional surface area.",
+    "meta": {
+      "date_added": "2025-11-10",
+      "priority": 5
+    }
+  },
+  {
+    "id": "7",
+    "title": "Wardrobe Cabinet",
+    "slug": "wardrobe-cabinet",
+    "price": "699",
+    "category": "Cabinet",
+    "img": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/Bronson-152%20(4).jpg",
+    "description": "Spacious wardrobe cabinet with smooth-gliding sliding doors. Includes versatile internal organization with ample hanging space, shelving, and drawers for all your storage needs. Durable particle board construction.",
+    "meta": {
+      "date_added": "2025-11-05",
+      "priority": 4
+    }
+  }
+]
