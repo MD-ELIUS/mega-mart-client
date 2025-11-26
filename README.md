@@ -46,6 +46,7 @@ A modern and fully responsive furniture e-commerce web application built with **
 
 
 ## 📂 Project Structure
+
 /components
    ├── home
    │     ├── BlogSection.jsx
