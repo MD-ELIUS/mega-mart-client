@@ -46,39 +46,37 @@ A modern and fully responsive furniture e-commerce web application built with **
 
 
 ## 📂 Project Structure
-
 /components
-   ├──home
-       ├── BlogSection.jsx
-       ├── FeaturedProduct.jsx
-       ├── HeroBanner.jsx
-       ├── ReviewSection.jsx
-       ├── WhyChooseUs.jsx
-   ├──shared
-       ├── Navbar.jsx
-       ├── Footer.jsx
-       ├── ProductCard.jsx
-   
+   ├── home
+   │     ├── BlogSection.jsx
+   │     ├── FeaturedProduct.jsx
+   │     ├── HeroBanner.jsx
+   │     ├── ReviewSection.jsx
+   │     ├── WhyChooseUs.jsx
+   ├── shared
+   │     ├── Navbar.jsx
+   │     ├── Footer.jsx
+   │     ├── ProductCard.jsx
 
 /app
    ├── page.jsx
    ├── layout.jsx
-   └── products
-        ├── page.jsx
-        └── [slug]/page.jsx
-   └── (auth)
-         └── login
-              ├── page.jsx
-         └── register
-              ├── page.jsx
-   └── manage-product
-        ├── page.jsx
-   └── add-product 
-        ├── page.jsx
-   └── contact
-        ├── page.jsx
+   ├── products
+   │     ├── page.jsx
+   │     └── [slug]/page.jsx
+   ├── (auth)
+   │     ├── login
+   │     │     └── page.jsx
+   │     ├── register
+   │     │     └── page.jsx
+   ├── manage-product
+   │     └── page.jsx
+   ├── add-product
+   │     └── page.jsx
+   ├── contact
+   │     └── page.jsx
    └── about
-        ├── page.jsx
+         └── page.jsx
 
 /public
    └── images
@@ -86,7 +84,7 @@ A modern and fully responsive furniture e-commerce web application built with **
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/furniture-shop.git
+git clone https://github.com/MD-ELIUS/mega-mart-client.git
 
 ### 2️⃣ Install dependencies
 npm install
@@ -96,12 +94,6 @@ npm run dev
 
 Project URL: http://localhost:3000
 
-## 📝 Blog Section Overview
-
-The homepage includes a modern blog section with 3 posts:
-1. How to Choose the Perfect Sofa for Your Living Room  
-2. 2025’s Trending Furniture Styles for Modern Homes  
-3. Smart Tips for Buying Long-Lasting Wooden Furniture  
 
 ## 📱 Responsive Design
 Optimized for:
@@ -113,4 +105,5 @@ Optimized for:
 This project is open-source and free to use.
 
 ## 🙌 Author
-Developed by **MD. Elius**
+Developed by **[MD. Elius](https://github.com/MD-ELIUS)**  
+
