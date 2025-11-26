@@ -1,9 +1,9 @@
 # 🛋️ Furniture E-Commerce Website  
 A modern and fully responsive furniture e-commerce web application built with **Next.js**, **Tailwind CSS**, and optimized UI components.
 
-🌐 **Live Site URL:** [https://mega-mart-client-gilt.vercel.app/]  
-💻 **Client Repository:** [HomeNest Client](https://github.com/MD-ELIUS/mega-mart-client)  
-🖥️ **Server Repository:** [HomeNest Server](https://github.com/MD-ELIUS/mega-mart-server)
+🌐 **Live Site :** [MegaMart](https://mega-mart-client-gilt.vercel.app/)  
+💻 **Client Repository:** [MegaMart Client](https://github.com/MD-ELIUS/mega-mart-client)  
+🖥️ **Server Repository:** [MegaMart Server](https://github.com/MD-ELIUS/mega-mart-server)
 
 ## 🚀 Features
 
