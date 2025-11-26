@@ -48,39 +48,39 @@ A modern and fully responsive furniture e-commerce web application built with **
 ## 📂 Project Structure
 
 /components
-   ├── home
-   │     ├── BlogSection.jsx
-   │     ├── FeaturedProduct.jsx
-   │     ├── HeroBanner.jsx
-   │     ├── ReviewSection.jsx
-   │     ├── WhyChooseUs.jsx
-   ├── shared
-   │     ├── Navbar.jsx
-   │     ├── Footer.jsx
-   │     ├── ProductCard.jsx
+├── home
+│ ├── BlogSection.jsx
+│ ├── FeaturedProduct.jsx
+│ ├── HeroBanner.jsx
+│ ├── ReviewSection.jsx
+│ └── WhyChooseUs.jsx
+├── shared
+│ ├── Navbar.jsx
+│ ├── Footer.jsx
+│ └── ProductCard.jsx
 
 /app
-   ├── page.jsx
-   ├── layout.jsx
-   ├── products
-   │     ├── page.jsx
-   │     └── [slug]/page.jsx
-   ├── (auth)
-   │     ├── login
-   │     │     └── page.jsx
-   │     ├── register
-   │     │     └── page.jsx
-   ├── manage-product
-   │     └── page.jsx
-   ├── add-product
-   │     └── page.jsx
-   ├── contact
-   │     └── page.jsx
-   └── about
-         └── page.jsx
+├── page.jsx
+├── layout.jsx
+├── products
+│ ├── page.jsx
+│ └── [slug]/page.jsx
+├── (auth)
+│ ├── login
+│ │ └── page.jsx
+│ └── register
+│ └── page.jsx
+├── manage-product
+│ └── page.jsx
+├── add-product
+│ └── page.jsx
+├── contact
+│ └── page.jsx
+└── about
+└── page.jsx
 
 /public
-   └── images
+└── images
 
 ## 📦 Installation & Setup
 
