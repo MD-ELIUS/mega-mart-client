@@ -135,5 +135,5 @@ Optimized for:
 This project is open-source and free to use.
 
 ## 🙌 Author
-Developed by **[MD. Elius](https://github.com/MD-ELIUS)**  
+Developed by **[MD. ELIUS](https://github.com/MD-ELIUS)**  
 
