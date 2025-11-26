@@ -43,44 +43,73 @@ A modern and fully responsive furniture e-commerce web application built with **
   #### Tools
   - vercel(deployment)
 
-
-
 ## 📂 Project Structure
 
-/components
-├── home
-│ ├── BlogSection.jsx
-│ ├── FeaturedProduct.jsx
-│ ├── HeroBanner.jsx
-│ ├── ReviewSection.jsx
-│ └── WhyChooseUs.jsx
-├── shared
-│ ├── Navbar.jsx
-│ ├── Footer.jsx
-│ └── ProductCard.jsx
+* `/components`
 
-/app
-├── page.jsx
-├── layout.jsx
-├── products
-│ ├── page.jsx
-│ └── [slug]/page.jsx
-├── (auth)
-│ ├── login
-│ │ └── page.jsx
-│ └── register
-│ └── page.jsx
-├── manage-product
-│ └── page.jsx
-├── add-product
-│ └── page.jsx
-├── contact
-│ └── page.jsx
-└── about
-└── page.jsx
+  * `/home`
 
-/public
-└── images
+    * `BlogSection.jsx`
+
+    * `FeaturedProduct.jsx`
+
+    * `HeroBanner.jsx`
+
+    * `ReviewSection.jsx`
+
+    * `WhyChooseUs.jsx`
+
+  * `/shared`
+
+    * `Navbar.jsx`
+
+    * `Footer.jsx`
+
+    * `ProductCard.jsx`
+
+* `/app`
+
+  * `page.jsx` (Home page)
+
+  * `layout.jsx`
+
+  * `/products`
+
+    * `page.jsx` (All Products List)
+
+    * `[slug]/page.jsx` (Single Product Page)
+
+  * `/(auth)`
+
+    * `/login`
+
+      * `page.jsx`
+
+    * `/register`
+
+      * `page.jsx`
+
+  * `/manage-product`
+
+    * `page.jsx`
+
+  * `/add-product`
+
+    * `page.jsx`
+
+  * `/contact`
+
+    * `page.jsx`
+
+  * `/about`
+
+    * `page.jsx`
+
+* `/public`
+
+  * `/images`
+
+
 
 ## 📦 Installation & Setup
 
