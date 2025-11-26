@@ -1,7 +1,7 @@
 export default function WhyChooseUs() {
   return (
     <section className="w-11/12 mx-auto my-12">
-      <h2 className="text-3xl font-bold text-primary mb-8 text-center">
+      <h2 className=" text-2xl sm:text-3xl md:text-4xl font-bold text-primary mb-8 text-center">
         Why Choose MegaMart?
       </h2>
 

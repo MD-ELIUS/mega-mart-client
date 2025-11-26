@@ -1,36 +1,116 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛋️ Furniture E-Commerce Website  
+A modern and fully responsive furniture e-commerce web application built with **Next.js**, **Tailwind CSS**, and optimized UI components.
 
-## Getting Started
+## 🚀 Features
 
-First, run the development server:
+### Public Pages
+- Modern landing page with 7 fully-designed sections
+- Responsive Navbar with sticky behavior
+- Products listing page (6+ cards)
+- Product details page
+- Login & Register with Firebase + Google Login
+- Search & Category UI filters (UI-only)
 
-```bash
+### Protected Pages
+- Accessible only after login:
+- Add Product (form + validation + MongoDB insertion)- 
+- Manage Products (table + View + Delete Actions)
+
+### Authentication (Firebase + Context API)
+
+**Email/Password login:**
+- Google OAuth login
+- User dropdown with:
+   - Profile info
+   - Add Product
+   - Manage Products
+   - Signout
+
+### 💻 Tech Stack
+
+  #### Frontend
+  - Next.js (App Router)
+  - React + Tailwind CSS
+  - Firebase Authentication
+  - Context API
+  - Next/Image Optimization 
+
+  #### Backend
+  - Express.js
+  - MongoDB & Mongoose
+  - CORS enabled
+
+  #### Tools
+  - vercel(deployment)
+
+
+
+## 📂 Project Structure
+
+/components
+   ├──home
+       ├── BlogSection.jsx
+       ├── FeaturedProduct.jsx
+       ├── HeroBanner.jsx
+       ├── ReviewSection.jsx
+       ├── WhyChooseUs.jsx
+   ├──shared
+       ├── Navbar.jsx
+       ├── Footer.jsx
+       ├── ProductCard.jsx
+   
+
+/app
+   ├── page.jsx
+   ├── layout.jsx
+   └── products
+        ├── page.jsx
+        └── [slug]/page.jsx
+   └── (auth)
+         └── login
+              ├── page.jsx
+         └── register
+              ├── page.jsx
+   └── manage-product
+        ├── page.jsx
+   └── add-product 
+        ├── page.jsx
+   └── contact
+        ├── page.jsx
+   └── about
+        ├── page.jsx
+
+/public
+   └── images
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+git clone https://github.com/your-username/furniture-shop.git
+
+### 2️⃣ Install dependencies
+npm install
+
+### 3️⃣ Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Project URL: http://localhost:3000
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📝 Blog Section Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The homepage includes a modern blog section with 3 posts:
+1. How to Choose the Perfect Sofa for Your Living Room  
+2. 2025’s Trending Furniture Styles for Modern Homes  
+3. Smart Tips for Buying Long-Lasting Wooden Furniture  
 
-## Learn More
+## 📱 Responsive Design
+Optimized for:
+- Desktop  
+- Tablet  
+- Mobile  
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 License
+This project is open-source and free to use.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🙌 Author
+Developed by **MD. Elius**

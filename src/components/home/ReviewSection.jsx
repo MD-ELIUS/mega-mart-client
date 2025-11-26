@@ -86,7 +86,7 @@ export function ReviewSection() {
     <section className="relative w-full my-12 bg-base-100 overflow-hidden max-w-11/12 mx-auto">
       {/* Top Title */}
      
-        <h2 className="text-3xl font-bold text-primary mb-8 text-center">
+        <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-primary mb-8 text-center">
           What Our Customers Say
         </h2>
        

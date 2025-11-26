@@ -79,7 +79,7 @@ console.log(today);
   };
 
   return (
-    <div className="flex justify-center items-center w-full min-h-screen py-12 px-6 md:px-12 bg-base-100">
+    <div className="flex justify-center items-center w-full min-h-screen py-12  bg-base-100">
       <div className="w-11/12 max-w-2xl bg-white shadow-md hover:shadow-xl border border-primary/20 rounded-xl p-6 animate-fade-in-center">
 
         <h2 className="text-center text-3xl font-bold mb-5 text-primary">

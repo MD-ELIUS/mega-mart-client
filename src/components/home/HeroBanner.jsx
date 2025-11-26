@@ -17,7 +17,7 @@ export default function HeroBanner() {
 
             {/* Content Centered */}
             <section className="absolute inset-0 flex items-center justify-center">
-                <div className="text-center px-6 max-w-3xl mx-auto">
+                <div className="text-center max-w-11/12 mx-auto">
                     <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold text-primary drop-shadow-lg">
                         Welcome to MegaMart
                     </h1>
